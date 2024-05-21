@@ -45,4 +45,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=aryankori)](https://github.com/aryankori/github-profile-trophy)
+
+<h3 align="center">GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/aryankori/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aryankori" alt="GitHub Trophies" />
+  </a>
+</p>

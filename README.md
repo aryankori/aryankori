@@ -1,22 +1,21 @@
-<h3 align="center">My Discord</h3>
+<h3 align="center">Discord</h3>
 <p align="center">
   <a href="https://discord.com/users/1136672010446057542">
-    <img src="https://lanyard.cnrad.dev/api/1136672010446057542" alt="Discord Presence" width="40" height="40" />
+    <img src="https://lanyard.cnrad.dev/api/1136672010446057542" alt="Discord Presence" />
   </a>
 </p>
 
-<h3 align="center">My Steam Profile</h3>
+<h3 align="center">Steam</h3>
 <p align="center">
-  <img src="https://steam-stat.vercel.app/api?profileName=curryhot" alt="Curry" width="40" height="40" />
+  <img src="https://steam-stat.vercel.app/api?profileName=curryhot" alt="Curry" />
 </p>
 
-<h3 align="center">My YouTube</h3>
+<h3 align="center">YouTube Stats</h3>
 <p align="center">
-  <img src="https://img.shields.io/youtube/channel/views/UC1WhVcVRRE_jM7RnLu9hlQg" alt="YouTube Channel Views" width="40" height="40" />
+  <img src="https://img.shields.io/youtube/channel/views/UC1WhVcVRRE_jM7RnLu9hlQg" alt="YouTube Channel Views" />
 </p>
 
-### Languages and Tools:
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />

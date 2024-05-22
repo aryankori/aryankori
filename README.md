@@ -52,3 +52,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aryankori" alt="GitHub Trophies" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=aryankori&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Profile Views" />
+  </a>
+</p>

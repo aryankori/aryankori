@@ -59,7 +59,7 @@
   </a>
 </p>
 
-<h1 align="center" style="font-size: 22px"> ᗜˬᗜ FUNKY ᗜˬᗜ (fake gif pfp only works on 1920x1080 browser in fullscreen, apologies otherwise) </h1>
+
 <div align="center"><p>
 <img max-width="400" src="https://c.tenor.com/iIpVPcee16kAAAAC/anime-cirno.gif"/>
 

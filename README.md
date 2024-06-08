@@ -8,7 +8,7 @@
 <h3 align="center">Spotify</h3>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=p3ilg9hx3o8jt58wztxyc7gc2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=p3ilg9hx3o8jt58wztxyc7gc2&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
   </a>
 </p>
 

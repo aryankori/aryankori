@@ -1,55 +1,43 @@
-<h3 align="center">Discord</h3>
+<h1 align="center">Aryan Kori</h1>
+
 <p align="center">
-  <a href="https://discord.com/users/1136672010446057542">
-    <img src="https://lanyard.cnrad.dev/api/1136672010446057542" alt="Discord Presence" />
-  </a>
+  <!-- ✏️ Edit this one-line bio to taste -->
+  <em>I build systems at the intersection of AI, quantitative finance, and security.</em>
 </p>
 
-<h3 align="center">Steam</h3>
 <p align="center">
-  <img src="https://steam-stat.vercel.app/api?profileName=curryhot" alt="Curry" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h3 align="center">YouTube Stats</h3>
+---
+
+### 🛠️ Selected Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[bridge](https://github.com/aryankori/bridge)** | An AI-agent interoperability & orchestration layer, with tests, docs, and a research harness. | TypeScript |
+| **[quant-trading-portfolio-suite](https://github.com/aryankori/quant-trading-portfolio-suite)** | A systematic-desk engine: Black–Scholes + Greeks + implied vol, pairs trading, VaR/CVaR, Monte Carlo, and an ML directional predictor behind a Flask dashboard. | Python |
+| **[llm-runner](https://github.com/aryankori/llm-runner)** | A portable, no-admin local-LLM server — a Go watchdog wrapping Ollama that runs 24/7 from a single folder. | Go |
+| **[ai-redteam-harness](https://github.com/aryankori/ai-redteam-harness)** | A defensive AI security harness that runs prompt-injection, tool-abuse, SSRF, and exfiltration test vectors against *your own* local LLM endpoints and reports findings with remediations. | Python |
+| **[estate-scout](https://github.com/aryankori/estate-scout)** | An autonomous real-estate scraping & analysis ETL pipeline. | TypeScript |
+| **[apple-stock-vs-iphone](https://github.com/aryankori/apple-stock-vs-iphone)** | A data-viz study: AAPL investment returns vs. buying each iPhone, across 49 models (2007–2026). | TypeScript |
+
+---
+
+### 📊 GitHub
+
 <p align="center">
-  <img src="https://img.shields.io/youtube/channel/views/UC1WhVcVRRE_jM7RnLu9hlQg" alt="YouTube Channel Views" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryankori&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankori&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
+  <a href="mailto:aryan.kori14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<h3 align="center">GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/aryankori/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryankori" alt="GitHub Trophies" />
-  </a>
-</p>
-

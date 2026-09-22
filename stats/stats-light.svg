@@ -4,7 +4,7 @@
     <text x="0" y="38" fill="#656d76" font-size="11">contributions (1y)</text>
     <text x="120" y="20" fill="#1f2328" font-size="16" font-weight="600">3d</text>
     <text x="120" y="38" fill="#656d76" font-size="11">current streak</text>
-    <text x="240" y="20" fill="#1f2328" font-size="16" font-weight="600">3d</text>
+    <text x="240" y="20" fill="#1f2328" font-size="16" font-weight="600">4d</text>
     <text x="240" y="38" fill="#656d76" font-size="11">longest streak (1y)</text>
     <text x="360" y="20" fill="#1f2328" font-size="16" font-weight="600">5</text>
     <text x="360" y="38" fill="#656d76" font-size="11">public repos</text>

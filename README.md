@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- ✏️ Edit this one-line bio to taste -->
-  <em>I build systems at the intersection of AI, quantitative finance, and security.</em>
+  <em></em>
 </p>
 
 <p align="center">

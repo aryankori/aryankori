@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Selected Projects
+### Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryankori&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />

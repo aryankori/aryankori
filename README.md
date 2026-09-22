@@ -1,5 +1,6 @@
 - [bridge](https://github.com/aryankori/bridge): agent interoperability and orchestration layer (TypeScript)
 - [quant-trading-portfolio-suite](https://github.com/aryankori/quant-trading-portfolio-suite): options pricing, risk metrics, and strategy backtesting with a Flask dashboard (Python)
+- [tree-of-odds](https://github.com/aryankori/tree-of-odds): puzzle game about game trees and expected value (JavaScript)
 - [llm-runner](https://github.com/aryankori/llm-runner): portable local LLM server, a Go watchdog around Ollama (Go)
 - [ai-redteam-harness](https://github.com/aryankori/ai-redteam-harness): security test harness for local LLM endpoints (Python)
 - [estate-scout](https://github.com/aryankori/estate-scout): real estate scraping and analysis pipeline (TypeScript)
